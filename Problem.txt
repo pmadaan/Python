@@ -1,0 +1,11 @@
+We would like you to build a playable version of connect four. You can assume for now that it will require two players, though we may want to add a single-player mode in the future. You can develop the game in any language, using any framework, and there must be some form of a UI to view the current board/game progress (CLI is fine).
+
+### Criteria
+
+- Minimum is a working 2-player game
+- 6 row x 7 column
+- If the turn is invalid, player must play again
+- All termination conditions complete (4 in a row/column/diagonal)
+- Well-structured code for extensibility
+- The game can be played in CLI or a browser.
+- Printing of the table is a must; print statements are ok.
